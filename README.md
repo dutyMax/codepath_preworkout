@@ -14,12 +14,18 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
+
+The following **optional** functionality is completed:
+
+- [ ] Tapping the 'Text Background' button changes the background of the text boxes
+- [ ] Tapping the 'Text Color' button changes the color of the font in the text boxes
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MzY215cDZlNWhrMGttcGVhYW43aWV6OWFraHZ3eW9pazJvc25wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqpjKDNioGfXBD5SLa/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MzY215cDZlNWhrMGttcGVhYW43aWV6OWFraHZ3eW9pazJvc25wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqpjKDNioGfXBD5SLa/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
