@@ -36,9 +36,9 @@ GIF created with https://getkap.co/
 ## App Brainstorming (Step 4)
 My favorite apps:
 * Spotify:
-* * Ability to add songs to your queue
-** Sharing playlist with your friends
-** Automatic creation of playlist based on user's taste
+  * Ability to add songs to your queue
+  * Sharing playlist with your friends
+  * Automatic creation of playlist based on user's taste
 ## Notes
 
 Describe any challenges encountered while building the app.
