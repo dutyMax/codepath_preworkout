@@ -39,6 +39,18 @@ My favorite apps:
   * Ability to add songs to your queue
   * Sharing playlist with your friends
   * Automatic creation of playlist based on user's taste
+ 
+* YouTube:
+  * Ability to close the app and continue watching current video in a small screen
+  * Saving videos to watch later
+
+* OneFootball:
+  * Live polls to vote during soccer games
+  * Adding your favorite teams to your profile
+
+App idea:
+* I would like to create an app to help immigrants coming to the US learn crucial information that will aid them in succeeding here. The app will primarily focus on the school system, aiming to guide parents and students as they navigate the journey through high school and college. I intend to provide users with the option to create and personalize their own profiles, enabling them to connect with others from their country and thereby fostering mutual support. Additionally, I plan to incorporate videos and tutorials featuring experts in financial and academic subjects. These resources will be available in a variety of languages. The app's interface will be designed to be simple and clean, adapting to the unique needs of each user.
+  
 ## Notes
 
 Describe any challenges encountered while building the app.
