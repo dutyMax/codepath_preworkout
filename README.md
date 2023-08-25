@@ -1,10 +1,10 @@
 # codepath_preworkout
 Maximiliano Pombo pre work assignment for code path's ios 101 class
-# Prework - *Name of App Here*
+# Prework - *Introduction App*
 
 Submitted by: **Maximiliano Pombo**
 
-**Introduction app** is an app that was created to learn the basics of ios development and get familiar with xcode. It has some basic functionality, labels, and buttons to change colors in the app.
+**Introduction App** is an app that was created to learn the basics of ios development and get familiar with xcode. It has some basic functionality, labels, and buttons to change colors in the app.
 
 Time spent: **2** hours spent in total
 
