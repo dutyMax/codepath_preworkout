@@ -24,7 +24,7 @@ The following **optional** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MzY215cDZlNWhrMGttcGVhYW43aWV6OWFraHZ3eW9pazJvc25wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqpjKDNioGfXBD5SLa/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MzY215cDZlNWhrMGttcGVhYW43aWV6OWFraHZ3eW9pazJvc25wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqpjKDNioGfXBD5SLa/giphy.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
